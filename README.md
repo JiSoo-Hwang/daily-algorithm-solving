@@ -1,2 +1,35 @@
-# daily-algorithm-solving
-My daily Baekjoon Online Judge solutions, auto-pushed by [BaekjoonHub](https://github.com/BaekjoonHub).
+# 백준 문제 풀이 저장소
+
+이 저장소는 [Baekjoon Online Judge](https://www.acmicpc.net/) 문제 풀이를 기록하기 위한 공간입니다.  
+[BaekjoonHub](https://github.com/BaekjoonHub)을 사용하여 자동으로 업로드됩니다.
+
+## 목적
+- 매일 조금씩이라도 꾸준히 문제를 풀고 기록하기 📚
+- 쉬운 문제부터 어려운 문제까지, 학습 과정 자체를 남기기 ✍️
+- 나중에 복습할 수 있는 나만의 풀이 아카이브 만들기 🗂️
+
+## 구조
+문제 번호별 디렉토리 안에 풀이 코드가 업로드됩니다.  
+예시:
+📂 1000
+└── Main.java
+📂 1001
+└── Main.java
+
+## 풀이 현황
+
+### 📊 월별 풀이 개수
+| 월 | 풀이 개수 |
+|---|---------|
+| 2025년 8월 | 24 |
+| 2025년 9월 | 진행 중... |
+
+### 📆 주차별 풀이 개수 (2025년 9월)
+- Week 1: 진행중...
+
+---
+
+## 진행 방식
+- ✅ 1일 1문제 목표 (가능한 한!)
+- ✅ 언어: Java 
+- 🌸 아직은 기초 위주로 풀이 중
